@@ -108,7 +108,7 @@ const BOSSES = {
   champ:       { img: "images/Champ.jpg" },
   sammler:     { img: "images/Sammler.jpg" },
   bronze:      { img: "images/Bronze-Automaton.jpg" },
-  deka:        { img: "images/Deka&Dunu.jpg" },
+  deka:        { img: "images/Deka&Donu.jpg" },
   erweckter:   { img: "images/Erweckter.jpg" },
   zeitschnecke:{ img: "images/Zeitschnecke.jpg" },
 };
